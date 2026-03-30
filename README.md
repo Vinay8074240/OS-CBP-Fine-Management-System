@@ -36,6 +36,11 @@ OS-CBP-Fine-Management-System/
 
 ⚙️ Setup Instructions
 
+1. Clone the repo
+
+Clone this repo into your local by running:
+git clone https://github.com/Vinay8074240/OS-CBP-Fine-Management-System.git
+
 1. Database Setup
 Import the schema into MySQL Workbench and run the following to select the DB:
 SQL
@@ -44,11 +49,13 @@ USE campus_security;
 2. Backend Setup
 
 cd backend
+npm install
 node server.js
 
 3. Frontend Setup
 
 cd frontend
+npm install
 npm run dev
 
 📸 System Workflow
