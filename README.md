@@ -68,4 +68,7 @@ Verification: Admin verifies the UTR against the bank statement to mark as PAID.
 Focus: Fine Logic, API Integration, & Payment Gateway
 
 ## 📸 App Preview
-![Fine Management Dashboard](./uploads/dashboard-screenshot.png)
+<div align="center">
+  <img src="./uploads/dashboard-screenshot.png" alt="Dashboard" width="600"/>
+  <p><i>Figure 1: Team 10 Fine Management Interface with Dynamic UPI QR</i></p>
+</div>
